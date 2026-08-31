@@ -1,0 +1,16 @@
+{
+  "source": "skillhub.cn",
+  "board": "home_recent_surge",
+  "snapshot_taken_at": "2026-08-31T17:34:00+08:00",
+  "caliber_note": "排序键=近期飙升（增速），展示字段=累计下载；首页与列表页数字不一致，以首页为准；与 16:47 首抓对比出现小幅回落（smart-charts 22.3万→22.2万、招投标 3.5万→3.4万、平台技能总数 44690→44676），口径观察中",
+  "items": [
+    {"pos": 1, "name": "编程专家.Skill", "author": "user_741dc82b", "category": "开发编程", "downloads_display": "45.9万"},
+    {"pos": 2, "name": "搜索引擎", "author": "智创未来", "category": "知识管理", "downloads_display": "23.7万"},
+    {"pos": 3, "name": "smart-charts", "author": "user_5b28ea14", "category": "数据分析", "downloads_display": "22.2万"},
+    {"pos": 4, "name": "直播带货脚本工作台", "author": "beatra", "category": "内容创作", "downloads_display": "6.5万"},
+    {"pos": 5, "name": "热点选题", "author": "beatra", "category": "内容创作", "downloads_display": "6.4万"},
+    {"pos": 6, "name": "全球12亿文献知识库（8千万中文期刊可下载）", "author": "user_164f4c1f", "category": "知识管理", "downloads_display": "9.8万"},
+    {"pos": 7, "name": "AI电商上架套图", "author": "beatra", "category": "设计多媒体", "downloads_display": "6.7万"},
+    {"pos": 8, "name": "招投标潜在项目推荐与商机筛选", "author": "览山科技", "category": "商业运营", "downloads_display": "3.4万"}
+  ]
+}

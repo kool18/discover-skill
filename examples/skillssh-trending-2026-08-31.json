@@ -1,0 +1,16 @@
+{
+  "source": "skills.sh",
+  "board": "trending",
+  "snapshot_taken_at": "2026-08-31T17:33:00+08:00",
+  "window_note": "页面导航标注 24h，页面标题为 This Week，口径待连续快照锁定",
+  "items": [
+    {"pos": 1, "name": "ai-video-generation", "publisher": "skills-101/superpowers", "installs_display": "22.3K"},
+    {"pos": 2, "name": "anti-ui-slop", "publisher": "uizze.com", "installs_display": "18.6K"},
+    {"pos": 3, "name": "ai-music", "publisher": "genmedia-labs/skills", "installs_display": "17.0K"},
+    {"pos": 4, "name": "reddit-automation", "publisher": "flowkit-labs/skills", "installs_display": "17.0K"},
+    {"pos": 5, "name": "video-edit", "publisher": "genmedia-labs/skills", "installs_display": "16.9K"},
+    {"pos": 6, "name": "find-skills", "publisher": "vercel-labs/skills", "installs_display": "14.2K"},
+    {"pos": 7, "name": "grill-me", "publisher": "mattpocock/skills", "installs_display": "8.6K"},
+    {"pos": 8, "name": "agent-browser", "publisher": "vercel-labs/agent-browser", "installs_display": "4.7K"}
+  ]
+}
