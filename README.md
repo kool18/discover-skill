@@ -4,6 +4,14 @@
 
 ![Agent Skill](https://img.shields.io/badge/type-Agent%20Skill-blue) ![Runtime](https://img.shields.io/badge/runtime-Claude%20Code%20%2F%20Codex%20%2F%20OpenClaw%20%2F%20any%20SKILL.md%20agent-green) ![License](https://img.shields.io/badge/license-MIT-lightgrey) ![Language](https://img.shields.io/badge/output-%E4%B8%AD%E6%96%87-red)
 
+<p align="center">
+  <img src="assets/discover-skill-demo.gif" alt="discover-skill 演示：从一句话触发到产出五板块中文榜单" width="960">
+</p>
+
+<p align="center">
+  <em>从「帮我看看 skill 圈最近有什么动静」到产出 <code>skill榜单-2026-08-31.md</code>：三源平权 · 只报变化 · 口径说清 · 行业适配</em>
+</p>
+
 **discover-skill** 是一个每日运行的 AI Skill 发现雷达：同时读取 [ClawHub](https://clawhub.com)、[skills.sh](https://www.skills.sh) Trending、[腾讯 SkillHub](https://skillhub.cn) 三个数据源（三源平权、各占独立板块），产出一分结构化中文榜单报告。它不堆"下载量 Top10"——那类存量榜天然僵化——而是抓**变化**（排名提升、增速、新进榜）、报**口径**（每个源怎么排的、数字是什么意思）、给**建议**（哪些技能值得关注，为什么）。
 
 ## 你什么时候需要它？
